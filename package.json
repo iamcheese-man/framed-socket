@@ -1,0 +1,26 @@
+{
+  "name": "framed-socket",
+  "version": "1.0.0",
+  "description": "A module that wraps the existing module `frame-stream` to make raw TCP easier to work with.",
+  "keywords": [
+    "tcp",
+    "socket",
+    "frame-stream",
+    "easyTCP"
+  ],
+  "homepage": "https://github.com/iamcheese-man/framed-socket#readme",
+  "bugs": {
+    "url": "https://github.com/iamcheese-man/framed-socket/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcheese-man/framed-socket.git"
+  },
+  "license": "MIT",
+  "author": "iamcheese-man",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
