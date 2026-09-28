@@ -1,5 +1,5 @@
 const { EventEmitter } = require('events');
-const frame = require('frame-stream');
+const frame = require('./frame-stream');
 
 class FramedSocket extends EventEmitter {
     constructor(rawSocket) {
