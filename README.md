@@ -2,6 +2,10 @@
 
 A module that wraps the existing module `frame-stream` to make raw TCP easier to work with.
 
+## Credits
+
+# [frame-stream module, made by rkusa and davedoesdev on the NPMJS website.](https://www.npmjs.com/package/frame-stream)
+
 ## Installation
 ```bash
 npm install framed-socket
